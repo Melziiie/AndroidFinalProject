@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">do.it</string>
+    <string name="tasks">Tasks</string>
+    <string name="FAB_string">Add TODO</string>
+    <string name="boardViewSetting">View as Board</string>
+    <string name="dark_modeSetting">Dark Mode</string>
+    <string name="searchSetting">Search</string>
+    <string name="new_task">Add a task</string>
+    <string name="save">Save</string>
+    <string name="no_date">No date</string>
+    <string name="no_time">No time</string>
+</resources>
